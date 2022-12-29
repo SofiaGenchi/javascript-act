@@ -95,9 +95,36 @@
 // alert(alumnos)
 
 // Act 4. El innombrable
-let nombre = ""
-let i = 0
-let innombrable = "voldemort"
-do {
-    nombre += prompt("Ingresa nombre") + "\n"
-} while (nombre === innombrable)
+// let nombre = "";
+// let entrada = prompt("Ingresar un nombre")
+
+// while (entrada != "Voldemort") {
+//     nombre += entrada + "\n"
+//     entrada = prompt("Ingresar un nombre")
+// }
+
+// alert(nombre)
+
+// Act. 5 Comprando productos
+// let entrada = prompt("Seleccionar producto del 1 al 4")
+
+// while (entrada != "ESC") {
+//     switch (entrada) {
+//         case "1":
+//             alert("TOMATE")
+//             break;
+//         case "2":
+//             alert("PAPA")
+//             break;
+//         case "3":
+//             alert("CARNE")
+//             break;
+//         case "4":
+//             alert("POLLO")
+//             break;
+//         default:
+//             alert("Error")
+//             break;
+//     }
+//     entrada = prompt("Seleccionar producto del 1 al 4")
+// }
